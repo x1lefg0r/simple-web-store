@@ -4,9 +4,12 @@ export const fetchProducts = async (
   search: string,
   page: number,
 ): Promise<ProductsResponse> => {
-  const response = await fetch(
-    `http://localhost:3000/products?q=${search}&_page=${page}&_limit=20`,
-  );
+  const url = new URL("http://localhost:3000/products");
+  url.searchParams.set("_page", String(page));
+  url.searchParams.set("_per_page", "20");
+  if (search) url.searchParams.set("q", search);
+
+  const response = await fetch(url.toString());
 
   if (!response.ok) {
     throw new Error(`HTTP error: ${response.status}`);

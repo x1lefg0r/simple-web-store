@@ -7,10 +7,13 @@ export const useProducts = () => {
   const { hasNextPage, data, fetchNextPage, isFetchingNextPage } =
     useInfiniteQuery({
       queryKey: ["products", search],
-      queryFn: ({ pageParam }) => fetchProducts(search, pageParam),
+      queryFn: async ({ pageParam }) => {
+        const result = await fetchProducts(search, pageParam);
+        return result;
+      },
       initialPageParam: 1,
-      getNextPageParam: (lastPage, allPages) => {
-        return lastPage?.products.length < 20 ? undefined : allPages.length + 1;
+      getNextPageParam: (lastPage) => {
+        return lastPage.next ?? undefined;
       },
     });
 
