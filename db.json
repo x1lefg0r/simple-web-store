@@ -5,7 +5,7 @@
       "title": "Смарт-часы X100",
       "price": 7490,
       "category": "Гаджеты",
-      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Водонепроницаемые смарт-часы с GPS и 7-дневным аккумулятором. Отслеживание пульса, шагов и сна."
     },
     {
@@ -13,7 +13,7 @@
       "title": "Беспроводные наушники Pro",
       "price": 5990,
       "category": "Аудио",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Наушники с активным шумоподавлением, 30 часов работы и быстрой зарядкой."
     },
     {
@@ -21,7 +21,7 @@
       "title": "Механическая клавиатура TKL",
       "price": 8900,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Тактильные переключатели Cherry MX Brown, RGB подсветка, алюминиевый корпус."
     },
     {
@@ -29,7 +29,7 @@
       "title": "Игровая мышь RGB",
       "price": 3490,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Сенсор 25600 DPI, 6 программируемых кнопок, RGB подсветка."
     },
     {
@@ -37,7 +37,7 @@
       "title": "Портативная колонка Bass+",
       "price": 4290,
       "category": "Аудио",
-      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "360° звук, IPX7 водозащита, 20 часов воспроизведения."
     },
     {
@@ -45,7 +45,7 @@
       "title": "Монитор 27\" 4K IPS",
       "price": 34900,
       "category": "Мониторы",
-      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "4K UHD, 144Гц, HDR600, sRGB 99%, USB-C с зарядкой 65W."
     },
     {
@@ -53,7 +53,7 @@
       "title": "Веб-камера 4K",
       "price": 6790,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "4K 30fps, автофокус, шумоподавление микрофона, угол обзора 90°."
     },
     {
@@ -61,7 +61,7 @@
       "title": "SSD 1TB NVMe",
       "price": 7290,
       "category": "Накопители",
-      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Скорость чтения 7000 MB/s, запись 6500 MB/s, TLC NAND."
     },
     {
@@ -69,7 +69,7 @@
       "title": "Зарядная станция 6-в-1",
       "price": 2990,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1619462729353-b1c9dbc7b1b2?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "USB-C PD 100W, 3x USB-A, беспроводная зарядка 15W, MagSafe."
     },
     {
@@ -77,7 +77,7 @@
       "title": "Планшет Pro 12.9\"",
       "price": 54900,
       "category": "Гаджеты",
-      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "OLED дисплей, стилус в комплекте, 12GB RAM, 256GB."
     },
     {
@@ -85,7 +85,7 @@
       "title": "Фитнес-браслет Ultra",
       "price": 2490,
       "category": "Гаджеты",
-      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "ЧСС, SpO2, стресс, 14 дней без зарядки, AMOLED экран."
     },
     {
@@ -93,7 +93,7 @@
       "title": "Роутер Wi-Fi 6E",
       "price": 12900,
       "category": "Сеть",
-      "image": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Wi-Fi 6E, трёхдиапазонный, до 10 Гбит/с, 8 антенн."
     },
     {
@@ -101,7 +101,7 @@
       "title": "Умная колонка с экраном",
       "price": 8490,
       "category": "Умный дом",
-      "image": "https://images.unsplash.com/photo-1512446816042-444d641267d4?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "10\" дисплей, голосовой ассистент, умный дом хаб, стереозвук."
     },
     {
@@ -109,7 +109,7 @@
       "title": "Электронная книга 10\"",
       "price": 11990,
       "category": "Гаджеты",
-      "image": "https://images.unsplash.com/photo-1592434134753-a70baf7979d5?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "E-Ink Carta, 300 ppi, подсветка, водозащита IPX8, 32GB."
     },
     {
@@ -117,7 +117,7 @@
       "title": "Видеокарта RTX 4070",
       "price": 59900,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "12GB GDDR6X, DLSS 3, ray tracing, 200W TDP."
     },
     {
@@ -125,7 +125,7 @@
       "title": "Процессор Ryzen 9",
       "price": 39900,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "16 ядер / 32 потока, 5.7 ГГц boost, AM5 сокет."
     },
     {
@@ -133,7 +133,7 @@
       "title": "Игровое кресло Pro",
       "price": 24900,
       "category": "Мебель",
-      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Поясничная поддержка, регулировка 4D подлокотников, до 150 кг."
     },
     {
@@ -141,7 +141,7 @@
       "title": "Микрофон конденсаторный",
       "price": 9490,
       "category": "Аудио",
-      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Кардиоидная диаграмма, 192kHz/24bit, USB-C, встроенный преамп."
     },
     {
@@ -149,7 +149,7 @@
       "title": "Стриминговый свет Keylight",
       "price": 13900,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "2800-7000K, 2500 люкс, управление с ПК и смартфона."
     },
     {
@@ -157,7 +157,7 @@
       "title": "USB-хаб Thunderbolt 4",
       "price": 7990,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1625480862430-b9e5a1db9c35?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "3x TB4, 4x USB-A 3.2, HDMI 8K, SD card, 96W зарядка."
     },
     {
@@ -165,7 +165,7 @@
       "title": "Ноутбук Ultra 14\"",
       "price": 89900,
       "category": "Ноутбуки",
-      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "OLED 2.8K 120Гц, 32GB, 1TB, 18 часов автономности."
     },
     {
@@ -173,7 +173,7 @@
       "title": "Геймпад беспроводной",
       "price": 4990,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Совместим с PC/Android/iOS, 40 часов работы, USB-C зарядка."
     },
     {
@@ -181,7 +181,7 @@
       "title": "Принтер лазерный цветной",
       "price": 18900,
       "category": "Оргтехника",
-      "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Дуплекс, Wi-Fi, 22 стр/мин, разрешение 1200x1200 dpi."
     },
     {
@@ -189,7 +189,7 @@
       "title": "Умная лампа RGB",
       "price": 1490,
       "category": "Умный дом",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "16 млн цветов, голосовое управление, E27, 10W = 75W."
     },
     {
@@ -197,7 +197,7 @@
       "title": "Сетевой фильтр 8 розеток",
       "price": 2190,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1558618047-f4e60e2b5e5d?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Защита от перегрузок, 4x USB-A, 1x USB-C, кабель 3м."
     },
     {
@@ -205,7 +205,7 @@
       "title": "Монитор 32\" Curved",
       "price": 28900,
       "category": "Мониторы",
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "QHD 165Гц VA, 1500R кривизна, FreeSync Premium Pro."
     },
     {
@@ -213,7 +213,7 @@
       "title": "Охлаждение CPU 360mm AIO",
       "price": 8490,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "3x120mm вентилятора ARGB, LCD дисплей, 350W TDP."
     },
     {
@@ -221,7 +221,7 @@
       "title": "Оперативная память DDR5 32GB",
       "price": 11900,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "DDR5-6000 CL30, 2x16GB, RGB, XMP 3.0 профили."
     },
     {
@@ -229,7 +229,7 @@
       "title": "Блок питания 850W Gold",
       "price": 9490,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1601524909162-ae8725290836?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "80+ Gold, модульный, 10 лет гарантии, тихий 135mm вентилятор."
     },
     {
@@ -237,7 +237,7 @@
       "title": "Корпус Mid Tower ATX",
       "price": 7990,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Закалённое стекло, 4 ARGB вентилятора, поддержка 420mm радиатора."
     },
     {
@@ -245,7 +245,7 @@
       "title": "Трекпад беспроводной",
       "price": 5490,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1527443195645-1133f7f28990?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Мультитач, 3 месяца от батареи, Bluetooth 5.0."
     },
     {
@@ -253,7 +253,7 @@
       "title": "Внешний SSD 2TB",
       "price": 8990,
       "category": "Накопители",
-      "image": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "USB 3.2 Gen2, 1050 MB/s, IP55, компактный алюминиевый корпус."
     },
     {
@@ -261,7 +261,7 @@
       "title": "Умный замок Bluetooth",
       "price": 6490,
       "category": "Умный дом",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Отпечаток пальца, PIN, приложение, гостевой доступ, батарея 1 год."
     },
     {
@@ -269,7 +269,7 @@
       "title": "Проектор 4K лазерный",
       "price": 79900,
       "category": "Гаджеты",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "4000 ANSI люмен, HDR10+, встроенный Android TV, 50000 часов."
     },
     {
@@ -277,7 +277,7 @@
       "title": "Игровая гарнитура 7.1",
       "price": 6990,
       "category": "Аудио",
-      "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Виртуальный 7.1 звук, съёмный микрофон, RGB, алюминиевые чашки."
     },
     {
@@ -285,7 +285,7 @@
       "title": "Стол для ПК с подсветкой",
       "price": 19900,
       "category": "Мебель",
-      "image": "https://images.unsplash.com/photo-1593640408182-31c228f47e7e?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "140x60cm, LED RGB лента, кабель-менеджмент, крюки для гарнитуры."
     },
     {
@@ -293,7 +293,7 @@
       "title": "Кронштейн для монитора",
       "price": 2990,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1616763355548-1b606f439f86?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "VESA 75/100, поворот 360°, наклон ±45°, до 10 кг, C-зажим."
     },
     {
@@ -301,7 +301,7 @@
       "title": "IP камера 4K WiFi",
       "price": 4490,
       "category": "Умный дом",
-      "image": "https://images.unsplash.com/photo-1580795479225-c50ab8c3348d?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "4K 30fps, ночное видение 30м, AI детекция, облако + SD карта."
     },
     {
@@ -309,7 +309,7 @@
       "title": "Коврик для мыши XXL",
       "price": 1290,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "900x400mm, ткань Speed, нескользящая основа, прошитые края."
     },
     {
@@ -317,7 +317,7 @@
       "title": "Карта памяти microSD 512GB",
       "price": 3490,
       "category": "Накопители",
-      "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "V30 A2, 200 MB/s чтение, 130 MB/s запись, водонепроницаемая."
     },
     {
@@ -325,7 +325,7 @@
       "title": "Умная розетка 16A",
       "price": 990,
       "category": "Умный дом",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Мониторинг потребления, таймер, голосовое управление, 3680W."
     },
     {
@@ -333,7 +333,7 @@
       "title": "Стриминговая дека",
       "price": 14900,
       "category": "Периферия",
-      "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "15 настраиваемых LCD клавиш, плагины для OBS/Spotify/Discord."
     },
     {
@@ -341,7 +341,7 @@
       "title": "Портативный монитор 15.6\"",
       "price": 16900,
       "category": "Мониторы",
-      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "FHD IPS, USB-C one-cable, чехол-подставка в комплекте, 500 нит."
     },
     {
@@ -349,7 +349,7 @@
       "title": "Термопаста жидкий металл",
       "price": 890,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "73 W/m·K теплопроводность, для CPU и GPU, 1г в комплекте."
     },
     {
@@ -357,7 +357,7 @@
       "title": "Планка оперативной памяти DDR4 16GB",
       "price": 4290,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "DDR4-3600 CL18, RGB, XMP 2.0, совместима с AMD EXPO."
     },
     {
@@ -365,7 +365,7 @@
       "title": "Конвертер HDMI-DisplayPort",
       "price": 1490,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1625480862430-b9e5a1db9c35?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "4K 60Hz, HDR, без драйверов, активный конвертер."
     },
     {
@@ -373,7 +373,7 @@
       "title": "Подставка для ноутбука",
       "price": 2490,
       "category": "Аксессуары",
-      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "Алюминий, 6 уровней высоты, складная, для 10-17\" ноутбуков."
     },
     {
@@ -381,7 +381,7 @@
       "title": "Сетевой коммутатор 8-port",
       "price": 3990,
       "category": "Сеть",
-      "image": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "8x Gigabit, PoE+ 4 порта, 55W бюджет, управляемый, VLAN."
     },
     {
@@ -389,7 +389,7 @@
       "title": "Гибкий LED strip 5м",
       "price": 1990,
       "category": "Умный дом",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "RGBIC, 16 млн цветов, музыкальный режим, управление с телефона."
     },
     {
@@ -397,7 +397,7 @@
       "title": "Вентилятор 120mm ARGB",
       "price": 890,
       "category": "Комплектующие",
-      "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=400",
+      "image": "https://placehold.co/400x300?text=No+Image",
       "description": "PWM 300-1800 RPM, 28 ARGB LED, FDB подшипник, 6 лет гарантии."
     }
   ]
