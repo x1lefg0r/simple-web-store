@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Смарт‑часы X100",
+      "price": 7490,
+      "category": "Гаджеты",
+      "image": "https://example.com/img/1.jpg",
+      "description": "Водонепроницаемые, GPS, 7‑дневный аккумулятор"
+    }
+  ]
+}
