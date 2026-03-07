@@ -15,6 +15,7 @@ export const useProducts = () => {
       getNextPageParam: (lastPage) => {
         return lastPage.next ?? undefined;
       },
+      placeholderData: (prev) => prev,
     });
 
   return { hasNextPage, data, fetchNextPage, isFetchingNextPage };

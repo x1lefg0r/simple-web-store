@@ -1,19 +1,19 @@
-import debounce from "debounce";
+import { debounce } from "lodash";
 import { useCallback, useMemo } from "react";
 import { useSearchParams } from "react-router";
 
 export const useProductsFilter = () => {
   const [searchParams, setSearchParams] = useSearchParams();
 
-  const search = searchParams.get("q") ?? "";
+  const search = searchParams.get("title:contains") ?? "";
   const productId = searchParams.get("productId") ?? "";
 
   const setSearch = useCallback(
     (value: string) => {
       setSearchParams((prev) => {
         const newParams = new URLSearchParams(prev.toString());
-        if (!value) newParams.delete("q");
-        else newParams.set("q", value);
+        if (!value) newParams.delete("title:contains");
+        else newParams.set("title:contains", value);
         return newParams;
       });
     },

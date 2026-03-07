@@ -26,3 +26,7 @@ export interface InfiniteScrollTriggerProps {
   hasNextPage: boolean;
   fetchNextPage: () => void;
 }
+
+export interface SearchFilterProps {
+  onChange: (value: string) => void;
+}
