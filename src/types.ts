@@ -11,6 +11,7 @@ export interface ProductsResponse {
   data: Product[];
   pages: number;
   next: number | null;
+  items: number;
 }
 
 export interface FilterState {

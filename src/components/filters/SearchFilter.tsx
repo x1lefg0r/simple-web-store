@@ -3,7 +3,7 @@ import { Input } from "../ui/input";
 
 export const SearchFilter = ({ onChange }: SearchFilterProps) => {
   return (
-    <div className="max-w-md mx-auto">
+    <div className="sticky top-5 z-40 max-w-md mx-auto bg-white rounded-md">
       <Input
         type="search"
         placeholder="Поиск..."
