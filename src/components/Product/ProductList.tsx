@@ -3,10 +3,20 @@ import { SearchFilter } from "../filters/SearchFilter";
 import { ProductCard } from "./ProductCard";
 import { InfiniteScrollTrigger } from "../ui/InfiniteScrollTrigger";
 import { useProductsFilter } from "@/hooks/useProductsFilter";
-import { LoadingState } from "../ui/LoadingState";
-import { EmptyState } from "../ui/EmptyState";
-import { ErrorState } from "../ui/ErrorState";
+import { EmptyState } from "../states/EmptyState";
+import { ErrorState } from "../states/ErrorState";
 import { motion } from "motion/react";
+import { ProductCardSkeleton } from "../skeletons/ProductCardSkeleton";
+
+const containerVariants = {
+  hidden: {},
+  visible: { transition: { staggerChildren: 0.05 } },
+};
+
+const cardVariants = {
+  hidden: { opacity: 0, y: 20 },
+  visible: { opacity: 1, y: 0 },
+};
 
 export const ProductList = () => {
   const { data, fetchNextPage, hasNextPage, isLoading, isError, error } =
@@ -14,16 +24,6 @@ export const ProductList = () => {
   const { handleSearch, search } = useProductsFilter();
 
   const total = data?.pages[0]?.items;
-
-  const containerVariants = {
-    hidden: {},
-    visible: { transition: { staggerChildren: 0.05 } },
-  };
-
-  const cardVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 },
-  };
 
   return (
     <motion.div
@@ -38,7 +38,11 @@ export const ProductList = () => {
           <p className="pt-5">Всего объявлений: {total}</p>
         )}
         {isLoading ? (
-          <LoadingState />
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 pt-10">
+            {Array.from({ length: 10 }).map((_, i) => (
+              <ProductCardSkeleton key={i} />
+            ))}
+          </div>
         ) : isError ? (
           <ErrorState message={error?.message} />
         ) : !total ? (

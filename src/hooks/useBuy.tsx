@@ -3,7 +3,7 @@ import { useProductsFilter } from "./useProductsFilter";
 import { showToast } from "@/lib/toast";
 
 export const useBuy = () => {
-  const [isLoading, setIsLoading] = useState(false);
+  const [isLoadingBuy, setIsLoading] = useState(false);
   const { setProduct } = useProductsFilter();
 
   const buy = () => {
@@ -15,5 +15,5 @@ export const useBuy = () => {
     }, 1000);
   };
 
-  return { buy, isLoading };
+  return { buy, isLoadingBuy };
 };

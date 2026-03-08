@@ -1,4 +1,4 @@
-import { Spinner } from "./spinner";
+import { Spinner } from "../ui/spinner";
 
 export const LoadingState = () => (
   <div className="flex flex-col items-center justify-center py-20 gap-3 text-muted-foreground">
