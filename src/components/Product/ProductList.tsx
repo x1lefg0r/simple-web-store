@@ -21,7 +21,7 @@ const cardVariants = {
 export const ProductList = () => {
   const { data, fetchNextPage, hasNextPage, isLoading, isError, error } =
     useProducts();
-  const { handleSearch, search } = useProductsFilter();
+  const { handleSearch, search, setProduct } = useProductsFilter();
 
   const total = data?.pages[0]?.items;
 
@@ -52,7 +52,10 @@ export const ProductList = () => {
             {data?.pages.map((page) =>
               page.data.map((product) => (
                 <motion.div key={product.id} variants={cardVariants}>
-                  <ProductCard product={product} />
+                  <ProductCard
+                    product={product}
+                    onOpen={() => setProduct(String(product.id))}
+                  />
                 </motion.div>
               )),
             )}

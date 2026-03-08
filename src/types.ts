@@ -19,10 +19,6 @@ export interface FilterState {
   search: string;
 }
 
-export interface ProductProps {
-  product: Product;
-}
-
 export interface InfiniteScrollTriggerProps {
   hasNextPage: boolean;
   fetchNextPage: () => void;
@@ -30,4 +26,9 @@ export interface InfiniteScrollTriggerProps {
 
 export interface SearchFilterProps {
   onChange: (value: string) => void;
+}
+
+export interface ProductProps {
+  product: Product;
+  onOpen: () => void;
 }
