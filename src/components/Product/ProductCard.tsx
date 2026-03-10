@@ -14,6 +14,7 @@ export const ProductCard = ({ product, onOpen }: ProductProps) => {
     <Card
       className="relative mx-auto w-full max-w-sm pt-0 cursor-pointer transition-transform duration-300 hover:scale-105 h-full"
       onClick={onOpen}
+      data-testid="product-card"
     >
       <div className="absolute inset-0 z-30 aspect-video bg-black/35" />
       <img

@@ -37,5 +37,5 @@ export const useProductsFilter = () => {
     [setSearch],
   );
 
-  return { search, productId, setProduct, handleSearch };
+  return { search, productId, setProduct, handleSearch, setSearch };
 };
