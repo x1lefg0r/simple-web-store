@@ -47,7 +47,7 @@ export const CardModal = () => {
                 {data?.description}
               </DialogDescription>
             </DialogHeader>
-            <DialogFooter className="flex gap-4 items-center">
+            <DialogFooter className="flex-row justify-between items-center">
               <CardDescription>
                 <span className="font-semibold text-black text-lg">
                   {data?.price?.toLocaleString("ru-RU")} ₽
