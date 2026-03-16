@@ -70,7 +70,7 @@ npm install
 echo "VITE_API_URL=http://localhost:3000" > .env.local
 
 # запустить API и фронт
-npm run start  # json-server на порту 3001
+npm start # json-server на порту 3001
 npm run dev      # фронт на порту 5173
 ```
 
